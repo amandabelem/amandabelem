@@ -1,16 +1,11 @@
-### Hi there 👋
+### Oiie, Eu sou a Amanda Belém 
+:computer: Sou uma aspirante a desenvolvedora Front-End  e atualmente estou estudando Javascript e Vue.Js.
+ <div>
+  <a href="https://github.com/amandabelem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandabelem&layout=compact&langs_count=7&theme=midnight-purple"/>
+<br  /> 
+  <div>
+       <a href="https://www.linkedin.com/in/amanda-belem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:amandinhabelem.ab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    </div>
 
-<!--
-**amandabelem/amandabelem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
